@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Shinobi-Developer/.NET-Web-API-Boilerplate/assets/133488886/711125f3-335c-423c-9eac-0bdff15b85e3" alt="No background"/>
+</p>
+
 # .NET Web API Boilerplate
 
 This is a boilerplate project for creating a .NET Web API using C#.
